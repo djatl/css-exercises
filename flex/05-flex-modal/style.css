@@ -91,7 +91,6 @@ button.cancel {
   display: flex;
   flex-direction: row;
   flex-flow: start;
-  /*padding: 8px 0px 8px 0px;*/
   gap: 8px;
 }
 
